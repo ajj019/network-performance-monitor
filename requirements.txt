@@ -1,0 +1,3 @@
+sppedtest-cli
+pandas
+matplotlib
